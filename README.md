@@ -11,6 +11,6 @@ I'm **William Aguilar**, a passionate **mobile app developer** and **backend dev
 
 ## Contact
 - 📧 You can reach me via email: guillermo300@outlook.es
-- 🔗 Connect with me on LinkedIn
+- 🔗 Connect with me on LinkedIn: www.linkedin.com/in/william-aguilar-san
 
 Thanks for visiting my profile! 😄
