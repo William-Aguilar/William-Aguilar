@@ -17,7 +17,8 @@
 <h2 align="left">I code with</h2>
 
 ###
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,postman,git,androidstudio,kotlin&perline=3)](https://skillicons.dev)
-
-###
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,postman,git,androidstudio,kotlin"/>
+  </a>
+</p>
