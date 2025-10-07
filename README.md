@@ -24,7 +24,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,github,gradle,firebase,graphql,postman,githubactions" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,github,gradle,firebase,graphql,postman,githubactions,figma" alt="My Skills"/>
   </a>
 </p>
 
